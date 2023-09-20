@@ -1,0 +1,14 @@
+*.iml
+/.idea
+target
+.classpath
+.project
+.settings
+test-output
+.DS_Store
+/build/
+/buildSrc/build/
+/buildSrc/.gradle/
+jenkins-client/build/
+jenkins-client-it-docker/build/
+.gradle/
